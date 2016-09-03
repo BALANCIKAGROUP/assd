@@ -1,6 +1,4 @@
 
-
-
 <script type="text/javascript">
 
 var session = "${SESSION}";
